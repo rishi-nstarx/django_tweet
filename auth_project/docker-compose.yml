@@ -16,8 +16,8 @@ services:
       EMAIL_HOST: smtp.gmail.com
       EMAIL_PORT: 587
       EMAIL_USE_TLS: 'true'
-      EMAIL_HOST_USER: rishiamzn22@gmail.com
-      EMAIL_HOST_PASSWORD: krwttvntpszkiyic
+      EMAIL_HOST_USER: hostmai@gmail.com
+      EMAIL_HOST_PASSWORD: secretkey
 
   my-postgres:
     image: postgres
